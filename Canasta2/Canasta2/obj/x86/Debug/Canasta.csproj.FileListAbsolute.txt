@@ -1,0 +1,10 @@
+C:\Users\Riikonen\Kurssit\TIEA212\Canasta2\Canasta2\bin\Debug\Canasta2.exe
+C:\Users\Riikonen\Kurssit\TIEA212\Canasta2\Canasta2\bin\Debug\Canasta2.pdb
+C:\Users\Riikonen\Kurssit\TIEA212\Canasta2\Canasta2\obj\x86\Debug\Canasta2.canasta.resources
+C:\Users\Riikonen\Kurssit\TIEA212\Canasta2\Canasta2\obj\x86\Debug\Canasta2.Properties.Resources.resources
+C:\Users\Riikonen\Kurssit\TIEA212\Canasta2\Canasta2\obj\x86\Debug\Canasta2.jakoKontrolli.resources
+C:\Users\Riikonen\Kurssit\TIEA212\Canasta2\Canasta2\obj\x86\Debug\Canasta.csproj.GenerateResource.Cache
+C:\Users\Riikonen\Kurssit\TIEA212\Canasta2\Canasta2\obj\x86\Debug\Canasta2.exe
+C:\Users\Riikonen\Kurssit\TIEA212\Canasta2\Canasta2\obj\x86\Debug\Canasta2.pdb
+C:\Users\Riikonen\Kurssit\TIEA212\Canasta2\Canasta2\obj\x86\Debug\Canasta.csprojResolveAssemblyReference.cache
+C:\Users\Riikonen\Kurssit\TIEA212\Canasta2\Canasta2\obj\x86\Debug\Canasta2.About.resources
