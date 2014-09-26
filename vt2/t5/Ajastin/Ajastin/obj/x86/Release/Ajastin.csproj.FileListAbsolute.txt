@@ -1,0 +1,9 @@
+C:\Users\Riikonen\Documents\GitHub\TIEA212\vt2\t5\Ajastin\Ajastin\bin\Release\Ajastin.exe
+C:\Users\Riikonen\Documents\GitHub\TIEA212\vt2\t5\Ajastin\Ajastin\bin\Release\Ajastin.pdb
+C:\Users\Riikonen\Documents\GitHub\TIEA212\vt2\t5\Ajastin\Ajastin\obj\x86\Release\Ajastin.aikaLaatikko.resources
+C:\Users\Riikonen\Documents\GitHub\TIEA212\vt2\t5\Ajastin\Ajastin\obj\x86\Release\Ajastin.keittioAjastin.resources
+C:\Users\Riikonen\Documents\GitHub\TIEA212\vt2\t5\Ajastin\Ajastin\obj\x86\Release\Ajastin.Kello.resources
+C:\Users\Riikonen\Documents\GitHub\TIEA212\vt2\t5\Ajastin\Ajastin\obj\x86\Release\Ajastin.Properties.Resources.resources
+C:\Users\Riikonen\Documents\GitHub\TIEA212\vt2\t5\Ajastin\Ajastin\obj\x86\Release\Ajastin.csproj.GenerateResource.Cache
+C:\Users\Riikonen\Documents\GitHub\TIEA212\vt2\t5\Ajastin\Ajastin\obj\x86\Release\Ajastin.exe
+C:\Users\Riikonen\Documents\GitHub\TIEA212\vt2\t5\Ajastin\Ajastin\obj\x86\Release\Ajastin.pdb
