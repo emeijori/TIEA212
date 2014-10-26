@@ -1,0 +1,11 @@
+C:\Users\Riikonen\Kurssit\TIEA212\CanastaTaas\CanastaTaas\bin\Debug\CanastaTaas.exe
+C:\Users\Riikonen\Kurssit\TIEA212\CanastaTaas\CanastaTaas\bin\Debug\CanastaTaas.pdb
+C:\Users\Riikonen\Kurssit\TIEA212\CanastaTaas\CanastaTaas\obj\x86\Debug\MainWindow.baml
+C:\Users\Riikonen\Kurssit\TIEA212\CanastaTaas\CanastaTaas\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Riikonen\Kurssit\TIEA212\CanastaTaas\CanastaTaas\obj\x86\Debug\App.g.cs
+C:\Users\Riikonen\Kurssit\TIEA212\CanastaTaas\CanastaTaas\obj\x86\Debug\CanastaTaas_MarkupCompile.cache
+C:\Users\Riikonen\Kurssit\TIEA212\CanastaTaas\CanastaTaas\obj\x86\Debug\CanastaTaas.g.resources
+C:\Users\Riikonen\Kurssit\TIEA212\CanastaTaas\CanastaTaas\obj\x86\Debug\CanastaTaas.Properties.Resources.resources
+C:\Users\Riikonen\Kurssit\TIEA212\CanastaTaas\CanastaTaas\obj\x86\Debug\CanastaTaas.csproj.GenerateResource.Cache
+C:\Users\Riikonen\Kurssit\TIEA212\CanastaTaas\CanastaTaas\obj\x86\Debug\CanastaTaas.exe
+C:\Users\Riikonen\Kurssit\TIEA212\CanastaTaas\CanastaTaas\obj\x86\Debug\CanastaTaas.pdb

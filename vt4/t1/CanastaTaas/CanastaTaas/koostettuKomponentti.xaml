@@ -1,0 +1,16 @@
+﻿<UserControl x:Class="Jakolaskuri.koostettuKomponentti"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="82" d:DesignWidth="293" x:Name="komponentti">
+    <Grid>
+        <Label Height="26" Width="auto" Content="/" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="139,9,139,0" Name="JakoMerkkiLabel" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="12,12,0,0" Name="JaettavaBox" VerticalAlignment="Top" Width="120" Text="{Binding ElementName=komponentti, Path=jaettava, Mode=OneWayToSource}" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="161,12,0,0" Name="JakajaBox" VerticalAlignment="Top" Width="120" Text="{Binding ElementName=komponentti, Path=jakaja, Mode=OneWayToSource}" />
+        <Label Content="Tulos = " Height="28" HorizontalAlignment="Left" Margin="12,42,0,0" Name="TulosLabel" VerticalAlignment="Top" />
+        <Label Height="28" HorizontalAlignment="Left" Margin="71,42,0,0" Name="JakoTulos" VerticalAlignment="Top" Width="83" />
+        <Button Content="Jaa" Height="28" HorizontalAlignment="Left" Margin="161,42,0,0" Name="JaaNappi" VerticalAlignment="Top" Width="120" FontSize="20" Click="JaaNappi_Click" />
+    </Grid>
+</UserControl>

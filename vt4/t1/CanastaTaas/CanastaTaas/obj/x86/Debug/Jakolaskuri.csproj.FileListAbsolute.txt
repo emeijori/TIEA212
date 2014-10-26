@@ -1,0 +1,17 @@
+C:\Users\Riikonen\Kurssit\TIEA212\CanastaTaas\CanastaTaas\obj\x86\Debug\MainWindow.baml
+C:\Users\Riikonen\Kurssit\TIEA212\CanastaTaas\CanastaTaas\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Riikonen\Kurssit\TIEA212\CanastaTaas\CanastaTaas\obj\x86\Debug\App.g.cs
+C:\Users\Riikonen\Kurssit\TIEA212\CanastaTaas\CanastaTaas\obj\x86\Debug\Jakolaskuri.csproj.GenerateResource.Cache
+C:\Users\Riikonen\Kurssit\TIEA212\CanastaTaas\CanastaTaas\obj\x86\Debug\koostettuKomponentti.baml
+C:\Users\Riikonen\Kurssit\TIEA212\CanastaTaas\CanastaTaas\obj\x86\Debug\koostettuKomponentti.g.cs
+C:\Users\Riikonen\Kurssit\TIEA212\CanastaTaas\CanastaTaas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Riikonen\Kurssit\TIEA212\CanastaTaas\CanastaTaas\bin\Debug\Jakolaskuri.exe
+C:\Users\Riikonen\Kurssit\TIEA212\CanastaTaas\CanastaTaas\bin\Debug\Jakolaskuri.pdb
+C:\Users\Riikonen\Kurssit\TIEA212\CanastaTaas\CanastaTaas\obj\x86\Debug\Jakolaskuri_MarkupCompile.cache
+C:\Users\Riikonen\Kurssit\TIEA212\CanastaTaas\CanastaTaas\obj\x86\Debug\Jakolaskuri_MarkupCompile.lref
+C:\Users\Riikonen\Kurssit\TIEA212\CanastaTaas\CanastaTaas\obj\x86\Debug\Jakolaskuri.g.resources
+C:\Users\Riikonen\Kurssit\TIEA212\CanastaTaas\CanastaTaas\obj\x86\Debug\Jakolaskuri.Properties.Resources.resources
+C:\Users\Riikonen\Kurssit\TIEA212\CanastaTaas\CanastaTaas\obj\x86\Debug\Jakolaskuri.exe
+C:\Users\Riikonen\Kurssit\TIEA212\CanastaTaas\CanastaTaas\obj\x86\Debug\Jakolaskuri.pdb
+C:\Users\Riikonen\Kurssit\TIEA212\CanastaTaas\CanastaTaas\obj\x86\Debug\About.baml
+C:\Users\Riikonen\Kurssit\TIEA212\CanastaTaas\CanastaTaas\obj\x86\Debug\About.g.cs

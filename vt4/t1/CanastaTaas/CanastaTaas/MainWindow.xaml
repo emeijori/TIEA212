@@ -1,0 +1,15 @@
+﻿<Window x:Class="CanastaTaas.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Jakolaskuri" Height="350" Width="525" xmlns:my="clr-namespace:CanastaTaas" xmlns:my1="clr-namespace:Jakolaskuri">
+    <StackPanel>
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="_File">
+                <MenuItem Header="_About" Click="About_btn_click" />
+            </MenuItem>
+        </Menu>
+        <my1:koostettuKomponentti x:Name="koostettuKomponentti1" />
+        <my1:koostettuKomponentti x:Name="koostettuKomponentti2" />
+        <my1:koostettuKomponentti x:Name="koostettuKomponentti3" />
+    </StackPanel>
+</Window>
